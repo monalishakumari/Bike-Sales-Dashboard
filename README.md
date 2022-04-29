@@ -1,4 +1,5 @@
 # Bike-Sales-Dashboard
+In Excel- Data cleaning, data formatting, pivot table, dashboard
 
 Overview-
 
