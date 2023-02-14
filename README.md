@@ -29,3 +29,5 @@ Overview-
 | Middle Age              | 331           | 388 | 719         |
 | Old                     | 117           | 54  | 171         |
 | Grand Total             | 519           | 481 | 1000        |
+
+![e12](https://user-images.githubusercontent.com/92994762/218709203-fc16b920-dc17-49a6-b913-ef4d373ebf67.jpg)
